@@ -35,3 +35,9 @@ This README provides a quick introduction to the project management methodology 
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+
+## Supporting Templates & Checklists
+
+- [Release Readiness Checklist](octoacme-release-readiness-checklist.md)
+- [QA Strategy & Test Plan Template](octoacme-qa-strategy-template.md)
+- [Requirements Traceability & Acceptance Criteria Checklist](octoacme-requirements-traceability.md)
